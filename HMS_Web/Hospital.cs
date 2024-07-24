@@ -10,7 +10,7 @@ namespace HMS_Web
     {
         public void PrintHospitalName()
         {
-            Console.WriteLine("E-Corl HMS");
+            Console.WriteLine("E-Corls HMS");
         }
     }
 }
