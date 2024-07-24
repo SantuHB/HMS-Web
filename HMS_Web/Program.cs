@@ -10,6 +10,7 @@ namespace HMS_Web
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Main Method Here");
         }
     }
 }
